@@ -20,7 +20,7 @@
 
         <hibernate.version>5.4.4.Final</hibernate.version>
         <flywaydb.version>5.2.3</flywaydb.version>
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <lombok.version>1.18.10</lombok.version>
         <oauth2.version>2.3.6.RELEASE</oauth2.version>
     </properties>
